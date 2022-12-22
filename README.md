@@ -1,4 +1,4 @@
-# node-live-project-backend-sq012
+Music Application backend 
 
 # clone the repo
 
